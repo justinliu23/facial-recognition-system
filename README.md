@@ -39,7 +39,7 @@ pip install tensorflow numpy pandas pillow keras
 ### Setup
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/yourusername/face_recognition.git
+    git clone https://github.com/justinliu23/facial-recognition-system.git
     ```
 2. Navigate to the project directory:
     ```sh
