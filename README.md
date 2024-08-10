@@ -1,7 +1,4 @@
 # facial-recognition-system
- 
-
-# Face Recognition Project
 
 ## Table of Contents
 - [Notebook Recap](#notebook-recap)
